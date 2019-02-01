@@ -21,7 +21,7 @@ public class Googleit {
 		// Maximize browser
 		 
 		//driver.manage().window().maximize();
-		System.out.println("hello");
+		System.out.println("GitHUB");
 		
 		 WebElement element = driver.findElement(By.name("q"));
          element.sendKeys("Cheese!");
