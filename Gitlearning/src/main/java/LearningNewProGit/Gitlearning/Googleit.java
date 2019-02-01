@@ -21,7 +21,7 @@ public class Googleit {
 		// Maximize browser
 		 
 		//driver.manage().window().maximize();
-		System.out.println("Nandhini");
+		System.out.println("Checking revert1");
 		
 		 WebElement element = driver.findElement(By.name("q"));
          element.sendKeys("Cheese!");
