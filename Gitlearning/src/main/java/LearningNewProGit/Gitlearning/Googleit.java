@@ -26,7 +26,6 @@ public class Googleit {
 		 WebElement element = driver.findElement(By.name("q"));
          element.sendKeys("Cheese!");
          element.submit();
-	element.sendKeys("Rever1");
 
 	}
 
